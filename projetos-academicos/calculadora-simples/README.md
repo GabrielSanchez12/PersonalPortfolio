@@ -18,7 +18,7 @@ Projeto simples e rápido de uma calculadora básica feita em Python. O programa
 
 ## Tecnologias
 
-- Python 3.x
+- Python
 - Terminal / Prompt de Comando
 
 ## Status
